@@ -1,7 +1,5 @@
-### Hi there 👋
-
-# Bem vindo ao meu Github !!
-  ## Me chamo Daniel e sou Junior na Braspag
+  ## Bem vindo ao meu Github !!
+  ### Me chamo Daniel e estou estudando para me tornar um grande desenvolvedor
  <div>
   <a href="https://github.com/dan01silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dan01silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
